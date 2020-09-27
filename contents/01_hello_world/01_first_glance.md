@@ -25,7 +25,9 @@ Its purpose is to demonstrate the syntax used for
 
 int main()
 {
-    /* for defining a variable
+    /* for defining a variable:
+     * <data-type> <variable-name>;
+     */
     int a = 10;
     int b = 20;
     int c;
@@ -34,8 +36,7 @@ int main()
 }
 ```
 
-# More reading
-For more explainations look for sections:
+# More Reading
 1. Header Files
 2. Data Types
 3.  Memory Allocation from Stack and Heap
