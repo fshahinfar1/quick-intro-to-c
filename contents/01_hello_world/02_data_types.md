@@ -3,7 +3,7 @@
 * The `sizeof()` can be used for retrieving the amount of memory a variable acquire.
 
 |Name            |Size (byte)     |
-|:---------------:|:----------------:|
+|:---------------|:----------------:|
 |[unsigned] char              |1|
 |[unsigned] short             |2|
 |[unsigned] int                 |4|
