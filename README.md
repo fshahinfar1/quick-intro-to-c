@@ -4,7 +4,8 @@
 1. Hello World: Basic syntax of C programming language
     1.1. [First glance](contents/01_hello_world/01_first_glance.md)
     1.2. [Data Types](contents/01_hello_world/02_data_types.md)
-    1.3. [Flow Control (if, else, while, for)](content/01_hello_world/03_flow_control.md)
+    1.3. [Operators](contents/01_hello_world/03_operators.md)
+    1.4. [Flow Control (if, else, while, for)](contents/01_hello_world/04_flow_control.md)
 2. Level One
     2.1. Struct and Typedef
     2.2. Arrays
